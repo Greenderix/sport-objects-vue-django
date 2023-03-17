@@ -41,7 +41,7 @@ export default {
         minZoom: 3,
         maxZoom: 18,
     },
-    center: [61, 73],
+    center: [0, 0],
     map: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
 }),
 methods: {
