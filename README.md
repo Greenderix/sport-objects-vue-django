@@ -5,8 +5,8 @@
 С целью развлечения, путем просмотра рандомных предсказаний.
 
 <p align="center">
-  <img alt="GitHub repo size" src="https://github.com/Greenderix/sport-objects-vue-django">
-  <img alt="GitHub code size in bytes" src="https://github.com/Greenderix/sport-objects-vue-djang">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/greenderix/sport-objects-vue-django">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/greenderix/sport-objects-vue-django">
 </p>
 
 ## БЫСТРЫЙ СТАРТ
