@@ -5,9 +5,8 @@
 С целью развлечения, путем просмотра рандомных предсказаний.
 
 <p align="center">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/greenderix/taro_bot">
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/greenderix/taro_bot">
-  <a href="https://github.com/Greenderix/taro_bot/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/greenderix/taro_bot"></a>
+  <img alt="GitHub repo size" src="https://github.com/Greenderix/sport-objects-vue-django">
+  <img alt="GitHub code size in bytes" src="https://github.com/Greenderix/sport-objects-vue-djang">
 </p>
 
 ## БЫСТРЫЙ СТАРТ
